@@ -1,8 +1,9 @@
 #EXTINF:-1, IPL FINAL
 http://97.74.103.44:8089/load/Star_Sports_1/chunks.m3u8?nimblesessionid=334313079
-#EXTINF:-1, IPL FINAL
+#EXTINF:-1, IPL FINAL 2
 https://cdn-1.bdiptv24.line.pm/live/SP/index.m3u8
-#EXTINF:-1, IPL FINAL
+#EXTINF:-1, IPL FINAL 3
 https://tv.durbinlive.com/api/live/onlive.m3u8
-#EXTINF:-1, IPL FINAL
+
+#EXTINF:-1, IPL FINAL 4
 http://97.74.103.44:8089/load/astrocricket/chunks.m3u8?nimblesessionid=334336745
