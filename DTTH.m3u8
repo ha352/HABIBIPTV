@@ -1,14 +1,2 @@
-#EXTINF:-1, Astro cricket-- MATCH- ENG VS SCO
-https://cdn-1.bdiptv24.line.pm/live/AstroCricket/index.m3u8
-#EXTINF:-1, star sports 1 --- ENG VS SCO
-http://97.74.103.44:8089/load/Star_Sports_1/chunks.m3u8?nimblesessionid=334617600
-#EXTINF:-1, star sports SELECTED 1-- NEP VS NED
-http://watchindia.net:8880/live/65596/46234/1070.m3u8
-#EXTINF:-1, star sports 2-- NEP VS NED
-http://watchindia.net:8880/live/65596/46234/2163.m3u8
-#EXTINF:-1, SONY TEN 1 --- ITALY VS TURKY
-http://97.74.103.44:8089/load/TEN_1_HD/chunks.m3u8?nimblesessionid=334623149
-#EXTINF:-1, SONY TEN 1 --- ITALY VS TURKY
-http://watchindia.net:8880/live/65596/46234/1756.m3u8
-#EXTINF:-1, SONY LIV --- POR VS FIN
-https://a2uy.short.gy/POR-V-FIN/Join-@HimelOP_Official/Zubayer-Op.m3u8
+#EXTINF:-1, star sports 2-- IND VS IRE
+http://97.74.103.44:8089/load/Star_Sports_2_HD/chunks.m3u8?nimblesessionid=334651238
