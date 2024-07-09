@@ -13,3 +13,5 @@ http://195.26.87.217/live.ts?channelId=287&uid=3453&deviceMac=00:1A:79:01:04:AC
 http://113.212.111.246:8080/hls/col12.m3u8
 #EXTINF: -1 group-title="EURO CUP 2024", SONY TEN-2
 http://watchindia.net:8880/live/65596/46234/2608.m3u8
+#EXTINF: -1 group-title="EURO CUP 2024", BENIN SPORTS
+http://yackcub.mexamo.xyz:80/3338826713/8323116234/401255239
